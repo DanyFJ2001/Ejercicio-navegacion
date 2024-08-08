@@ -1,4 +1,4 @@
-// Buttoncomponent.js
+
 import React from 'react'
 import { TouchableOpacity, Text } from 'react-native'
 import { styles } from '../theme/Apptheme'
